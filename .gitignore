@@ -1,0 +1,4 @@
+data/*.db
+data/*.ts
+data/*.json
+output
